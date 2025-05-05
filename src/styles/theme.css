@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #6366f1; /* matching your logo purple */
+  --color-primary-light: #a5b4fc; /* matching your logo purple */
+  --color-bg: #0e0e0e;
+}
+
+@plugin 'tailwind-scrollbar';
